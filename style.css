@@ -6,8 +6,8 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-background-color:blue ;
-background-image:url("images projeto portfolio/aproveite-as-pequemas-coisas-ylanite-koppens-776632.jpg"); /*imagem de fundo do site*/
+background-color:white;
+background-image:url("aproveite-as-pequemas-coisas-ylanite-koppens-776632.jpg"); /*imagem de fundo do site*/
 background-size: contain;
 background: opacity 1;
 height: 100vh;
